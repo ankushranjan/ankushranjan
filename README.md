@@ -12,7 +12,7 @@
 
 - 📝 I post on [https://www.linkedin.com/in/ankush-ranjan-a72929218/](https://www.linkedin.com/in/ankush-ranjan-a72929218/)
 
-- 📫 How to reach me **Ankush@projectsyeraa.com**
+- 📫 How to reach me **Ankushranjan@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
