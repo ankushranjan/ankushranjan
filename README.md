@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/ankushrnn" target="blank"><img src="https://img.shields.io/twitter/follow/ankushrnn?logo=twitter&style=for-the-badge" alt="ankushrnn" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **Courses**
+- 🔭 I’m currently working on **Personal Projects (ProjectSyeraa)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankush-ranjan-a72929218/](https://www.linkedin.com/in/ankush-ranjan-a72929218/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ankush-ranjan-a72929218/](https://www.linkedin.com/in/ankush-ranjan-a72929218/)
+- 📝 I post on [https://www.linkedin.com/in/ankush-ranjan-a72929218/](https://www.linkedin.com/in/ankush-ranjan-a72929218/)
 
-- 📫 How to reach me **ankush.ranjan2021@vitbhopal.ac.in**
+- 📫 How to reach me **Ankush@projectsyeraa.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
