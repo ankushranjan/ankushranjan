@@ -1,12 +1,12 @@
 <h1 align="center">Hello World, I'm Ankush Ranjan</h1>
-<h3 align="center">A passionate Game developer from India</h3>
+<h3 align="center">A passionate Game developer/designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1060216200627494932/1062432242246365235/IMG_6201.jpg?width=670&height=553">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushranjan&label=Profile%20views&color=0e75b6&style=flat" alt="ankushranjan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankushrnn" target="blank"><img src="https://img.shields.io/twitter/follow/ankushrnn?logo=twitter&style=for-the-badge" alt="ankushrnn" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects (ProjectSyeraa)**
+- 🔭 I’m currently working @FelicityGames**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankush-ranjan-a72929218/](https://www.linkedin.com/in/ankush-ranjan-a72929218/)
 
